@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoseph Alemu</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
 - 💬 Ask me about **React,Next.js,Flutter**
 
