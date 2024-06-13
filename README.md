@@ -3,7 +3,7 @@
   A passionate full stack developer from Ethiopia
 </h3>
 <p> Im also a student trainee at A2Sv
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/rent-ffb49.appspot.com/o/photos%2F1691678724366.jpg?alt=media&token=0ffa8272-ae89-4e1b-9f36-a5ecb4dafe84" alt="a2sv" width="50" height="50"/>
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/rent-ffb49.appspot.com/o/photos%2F1691678724366.jpg?alt=media&token=0ffa8272-ae89-4e1b-9f36-a5ecb4dafe84" alt="a2sv" width="100" height="100"/>
 </p>
   
 - 💬 Ask me about **React,Next.js,Flutter**
