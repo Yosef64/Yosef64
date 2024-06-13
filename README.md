@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yoseph Alemu</h1>
-<h3 align="center">A passionate full stack developer from Ethiopia</h3>
-
+<h3 align="center">
+  A passionate full stack developer from Ethiopia
+</h3>
+<p> Im also a student trainee at A2Sv
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/rent-ffb49.appspot.com/o/photos%2F1691678724366.jpg?alt=media&token=0ffa8272-ae89-4e1b-9f36-a5ecb4dafe84" alt="a2sv" width="50" height="50"/>
+</p>
+  
 - 💬 Ask me about **React,Next.js,Flutter**
 
 <h3 align="left">Connect with me:</h3>
