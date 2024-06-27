@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoseph Alemu</h1>
-<h3 align="center" color="red">
+<h3 align="center" style="color:red">
   A passionate full stack developer from Ethiopia
 </h3>
 <p> Im also a student trainee at A2Sv
